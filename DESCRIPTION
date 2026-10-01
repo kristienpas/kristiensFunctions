@@ -1,0 +1,16 @@
+Package: kristiensFunctions
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Kristien", "Paschold",
+      email = "kristien.pas@gmail.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: This is a package for random functions I had to create for class.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Config/roxygen2/version: 8.1.0
